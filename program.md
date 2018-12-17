@@ -12,6 +12,8 @@ The detailed program is available by this link: [**download program**]({{ site.b
 * **Place:** ITMO University, Kronverkskiy pr., 49.
 * **Rooms:** 285, 365, 371, 372, 375, 466.
 
+**The language of the participant presentations:** Russian.
+
 ## Thursday, 20.12.18
 
 <table class="prog_tb">
