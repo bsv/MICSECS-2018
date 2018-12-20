@@ -47,12 +47,19 @@ Please pay attention to the comments in the list. If your team contains one pers
 ## Rules
 
 We know some rules are meant to be broken, but you should probably (definitely) stick by these
-**1. Fresh Code** - We all start coding at the same time. It’s cool to work on designs beforehand, digital mockups, open source frameworks, and anything else available to everyone, but keep things within fair limits.
+
+**1. Fresh Code** - We all start coding at the same time. It’s cool to work on designs beforehand, digital mockups, open 
+source frameworks, and anything else available to everyone, but keep things within fair limits.
+
 **2. Code Review** - Winning teams may be subject to a code-review at some point following the event or immediately before winning. This is to ensure that all code used is in fact fresh.
+
 **3. Ownership and IP** - You own your IP and whatever you create. Simple as that.
+
 **4. Team Size** - No more than five people not less two.
+
 **5. Submissions** - You’ll receive an email with instructions on how to do just that. More information
 will be given at the event.
+
 **6. Demos** - You’ll demo the functionality of your project and talk through your idea. You’ll receive an email with instructions on how to do just that, more information will be given at the event.
 
 ## Judging
@@ -74,12 +81,19 @@ T-Labs Berlin: Alexandra Mikityuk, Dirk Thatmann, Daniel Steinfeld
 ### Friday, December 21th
 
 **18:00:** Registration & team formation
+
 **18:25:** Opening remarks from ITMO University, Saint-Petersburg
+
 **18:30:** Opening remarks from T-Systems Rus, Saint-Petersburg
+
 **18:45:** Opening remarks from T-Labs, Berlin
+
 **19:00:** Business challenge overview
+
 **19:30:** Technical challenge overview
+
 **19:45:**  Identity example 
+
 **20:00:** Pizza party and Start of Hackathon
 
 **Hacking will continue overnight!** (Attendees may choose to stay over and hack or go home to sleep)
@@ -87,17 +101,27 @@ T-Labs Berlin: Alexandra Mikityuk, Dirk Thatmann, Daniel Steinfeld
 ### Saturday, December 22th
 
 **9:00:** Breakfast
+
 **11:30:** Tutorial: Hashstax
+
 **13:00:** Lunch
+
 **14:00:** Workshop: Sovryn
+
 **17:00:** Coffee and snacks
+
 **19:00:** Pizza time
 
 ### Sunday, December 23th
 
 **9:00:** Breakfast
+
 **12:00:** Lunch with judges 
+
 **13:00:**  Presentations & judging
+
 **14:00:** Conclusion of Hackathon & submissions on DevPost
+
 **15:00:** Winner selection & final remarks by T-Labs
+
 **15:30:** Closure
