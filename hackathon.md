@@ -40,6 +40,6 @@ Hackathon features:
 
 The registered teams are presented in the list: [**REGISTERED TEAMS**](https://docs.google.com/spreadsheets/d/e/2PACX-1vT06zmCOOdyp-Z---yk7zR7xdafIMudz6ybNmBNVUuhheIKQDUrh2juGkDEV-tfSZ4kVEjpbcWX14EX/pubhtml){:target="_blank"}. 
 
-Please pay attention to the comments in the list. If you team contains one person you will need to create a team or join to the existing teams. The team must contain from 2 to 5 people.
+Please pay attention to the comments in the list. If your team contains one person you will need to create a team or join to the existing teams. The team must contain from 2 to 5 people.
 
 
