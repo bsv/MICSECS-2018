@@ -36,11 +36,8 @@ Hackathon features:
 
 # Team Registration
 
-**REGISTRATION WILL BE CLOSED TODAY AT 22:00**
+**REGISTRATION IS CLOSED**
 
-To take part in **BLACK DAY HACK** you need to fill the [**REGISTRATION FORM**](https://goo.gl/forms/McrKLJh5Y7jgioIJ2){:target="_blank"}.
-
-Filling this form you agree to [the personal data processing policy]({{ site.base_url }}/media/micsecs_a.pdf){:target="_blank"}.
 
 
 
