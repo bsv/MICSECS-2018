@@ -72,8 +72,11 @@ Innovation - 25%
 
 **Judges Include:**
 ITMO University: Pavel Kustarev, Dmitry Mouromtsev 
+
 T-Systems Rus Management: Igor Tchoupalov, Igor Shchipin, Irina Maksheeva, Alexander Rusov
+
 T-Systems Rus Architects: Igor Minin, Andrey Ivashchenko
+
 T-Labs Berlin: Alexandra Mikityuk, Dirk Thatmann, Daniel Steinfeld
 
 ## Event Schedule
