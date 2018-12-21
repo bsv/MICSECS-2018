@@ -93,7 +93,7 @@ The detailed program is available by this link: [**download program**]({{ site.b
     <tr>
         <td>10:45 – 11:30</td>
         <td>285</td>
-        <td class="pt_mark2"><b>Keynote talk</b>: «Self Sovereign Identity: on DIDs and more», by Dirk Thatmann, <a href="https://www.t-systems.com/ru/ru" target="_blank">T-Systems</a></td>
+        <td class="pt_mark2"><b>Keynote talk</b>: «Self Sovereign Identity: on DIDs and more», by Dirk Thatmann, <a href="https://laboratories.telekom.com" target="_blank">Telekom Innovation Laboratories (T- Labs)</a></td>
     </tr>
     <tr>
         <td colspan="2"></td>
