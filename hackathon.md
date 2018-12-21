@@ -71,6 +71,7 @@ Usefulness - 25%
 Innovation - 25%
 
 **Judges Include:**
+
 ITMO University: Pavel Kustarev, Dmitry Mouromtsev 
 
 T-Systems Rus Management: Igor Tchoupalov, Igor Shchipin, Irina Maksheeva, Alexander Rusov
