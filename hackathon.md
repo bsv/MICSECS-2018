@@ -4,7 +4,7 @@ title: Hackathon
 ---
 # **BLACK DAY HACK** in **ITMO University**
 
-[ITMO University](http://en.ifmo.ru/en/){:target="_blank"} and [T-Systems Rus](https://www.t-systems.com/ru/ru){:target="_blank"} set up the challenge for the most courageous IT specialists. It is your chance to prove your 
+[ITMO University](http://en.ifmo.ru/en/){:target="_blank"},  [Telekom Innovation Laboratories (T- Labs)](https://laboratories.telekom.com) and [T-Systems Rus](https://www.t-systems.com/ru/ru){:target="_blank"} set up the challenge for the most courageous IT specialists. It is your chance to prove your 
 expertise in **Blockchain**. 
 
 **Our Telegram group**: [https://t.me/blackDayHack](https://t.me/blackDayHack ){:target="_blank"} 
