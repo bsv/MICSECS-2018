@@ -36,9 +36,13 @@ Hackathon features:
 
 ## Teams
 
-**REGISTRATION IS CLOSED**
-
 The registered teams are presented in the list: [**REGISTERED TEAMS**](https://docs.google.com/spreadsheets/d/e/2PACX-1vT06zmCOOdyp-Z---yk7zR7xdafIMudz6ybNmBNVUuhheIKQDUrh2juGkDEV-tfSZ4kVEjpbcWX14EX/pubhtml){:target="_blank"}. 
+
+**The Winners**
+
+1. Шахмадидан (200 000 rub)
+2. Тёплые ребята (100 000 rub)
+3. Радужная команда (50 000 rub)
 
 ## Rules
 

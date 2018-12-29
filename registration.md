@@ -4,7 +4,7 @@ title: Registration
 ---
 
 
-## Listeners registration
+## Listeners registration (closed)
 
 To take part in the conference as a listener you need to fill the [**REGISTRATION FORM**](https://goo.gl/forms/jeoiyiIZcH1ErREr1){:target="_blank"}.
 
