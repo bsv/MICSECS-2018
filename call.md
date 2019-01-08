@@ -22,7 +22,7 @@ All deadlines are for the Moscow time zone, 23:59.
 
 * **Abstract submission**: 5 December 2018 ~~2 December 2018~~
 * **Author notification**: 17 December 2018 ~~10 December 2018~~
-* **Paper submission**: to be determined
+* **Camera ready paper submission**: 30 January 2019
 
 ## Proceedings
 
