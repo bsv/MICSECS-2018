@@ -19,7 +19,7 @@ Please refer to [**PROGRAM**]({{ site.base_url }}/program.html) to learn more ab
 * Accepted submissions: 82
 * Acceptance rate: 0.73
 * Participants: 213
-* Participants (under 35): 110
+* Participants (under 39): 110
 
 ## About
 
