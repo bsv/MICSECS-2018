@@ -16,7 +16,7 @@ Please refer to [**PROGRAM**]({{ site.base_url }}/program.html) to learn more ab
 ## Conference statistics (2018 year)
 
 * Submissions: 112
-* Accepted submissions: 82
+* Accepted submissions: 82 (36 full + 46 short)
 * Acceptance rate: 0.73
 * Participants: 273
 * Participants (under 39): 172
