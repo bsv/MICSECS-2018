@@ -6,7 +6,7 @@ title: Previous Conferences
 
 Proceedings in CEUR (Scopus indexing): [**jump to proceedings**](http://ceur-ws.org/Vol-2344/){:target="_blank"}
 
-Printed Russian version: [**download**]({{ site.base_url }}/media/sbornik_2019.pdf){:target="_blank"}
+Printed Russian version: [**download**]({{ site.base_url }}/media/MICSECS_RUS_2018.pdf){:target="_blank"}
 
 ## Conference statistics
 
@@ -18,7 +18,7 @@ Printed Russian version: [**download**]({{ site.base_url }}/media/sbornik_2019.p
 
 ## Photos
 
-**Keynote talk**: «Self-Driving Cars: Difficulties vs Opportunities? » by **Boris Ivanov**, [**StarLine**](https://www.starline.ru/){:target="_blank"} 
+**Keynote talk**: «Self-Driving Cars: Difficulties vs Opportunities? » by **Boris Ivanov**, [**StarLine**](https://www.starline.ru/){:target="_blank"}
 
 <img src="{{ site.base_url }}/img/2018/IMG_8931.jpg">
 
