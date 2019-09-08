@@ -4,7 +4,7 @@ title: Previous Conferences
 ---
 # MICSECS-2018
 
-Proceedings in CEUR (Scopus indexing): [**jump to proceedings**](http://ceur-ws.org/Vol-2344/){:target="_blank"}
+Proceedings in CEUR (indexed by Scopus): [**jump to proceedings**](http://ceur-ws.org/Vol-2344/){:target="_blank"}
 
 Printed Russian version: [**download**]({{ site.base_url }}/media/MICSECS_RUS_2018.pdf){:target="_blank"}
 
