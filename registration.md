@@ -4,19 +4,26 @@ title: Registration
 ---
 
 
-## Listeners registration (closed)
+## Listeners registration
 
-To take part in the conference as a listener you need to fill the [**REGISTRATION FORM**](https://goo.gl/forms/jeoiyiIZcH1ErREr1){:target="_blank"}.
+Will be open on **1 October 2019**.
 
-Filling this form you agree to [the personal data processing policy]({{ site.base_url }}/media/micsecs_a.pdf){:target="_blank"}.
+<!-- To take part in the conference as a listener you need to fill the [**REGISTRATION FORM**](https://goo.gl/forms/jeoiyiIZcH1ErREr1){:target="_blank"}. -->
 
-## Registration on Oral presentation (closed)
+<!-- Filling this form you agree to [the personal data processing policy]({{ site.base_url }}/media/micsecs_a.pdf){:target="_blank"}. -->
 
-To apply to the conference **Research Tracks** you need to send the abstract of your oral presentation via [EasyChair](https://easychair.org/conferences/?conf=micsecs2018){:target="_blank"}. Your abstract should conent:
+## Registration on Oral and Poster presentation
+
+To apply to the conference **Research Tracks** you need to send the abstract of your oral or poster presentation via Easy Chair.
+The Easy Chair link for submissions **will be published later**. The begin of abstract submission will be opened on **1 October 2019**.
+<!-- [EasyChair](https://easychair.org/conferences/?conf=micsecs2018){:target="_blank"}.  -->
+
+Your abstract should content:
 
 1. Title
-2. Content (the aim of the research, issues, obtained results)
-3. List of the references (bibliography)
+2. The type of the abstract: **poster session** or **oral presentation**
+3. Content (the aim of the research, issues, obtained results). It can include graphics and formulas.
+4. List of the references (bibliography)
 
 The requirements of the abstract:
 
@@ -24,6 +31,8 @@ The requirements of the abstract:
 * Max pages: 3
 * Font: Times New Roman, 12pt
 
-## Registration on Poster & Demo session (closed)
+**Example of the abstract:** [**download**]({{ site.base_url }}/media/MICSECS_abstract_example.pdf){:target="_blank"}
 
-To apply to the **Poster & Demo session** you should send your poster in **PDF** (A2 paper format) to the organization team by <mailto:mr@corp.ifmo.ru>. The poster should content the main points of your results and the description of the obtained executable models, devices and etc. during your research.
+## Registration on Demo session
+
+To apply to the **Demo session** you should send the description of your project and poster to the organization team by <mailto:mr@itmo.ru>. The materials should content the main points of your results and the description of the obtained executable models, devices and etc. during your research.

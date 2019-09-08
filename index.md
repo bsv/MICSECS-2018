@@ -9,17 +9,7 @@ title: Home
 </div>
 
 <br>
-[ITMO University](http://en.ifmo.ru/en/){:target="_blank"} kindly invites international researches to the 10th Majorov International Conference on Software Engineering and Computer Systems (**MICSECS 2018**). 
-
-Please refer to [**PROGRAM**]({{ site.base_url }}/program.html) to learn more about the schedule.
-
-## Conference statistics (2018 year)
-
-* Submissions: 112
-* Accepted submissions: 82 (36 full + 46 short)
-* Acceptance rate: 0.73
-* Participants: 273
-* Participants (under 39): 172
+[ITMO University](http://en.itmo.ru/en/){:target="_blank"} kindly invites international researches to the 11th Majorov International Conference on Software Engineering and Computer Systems (**MICSECS 2019**).
 
 ## About
 
@@ -29,19 +19,16 @@ The conference is named after an outstanding scientist Sergei Majorov. He was th
 
 The conference includes:
 
-* Key notes presentaion 
-* Oral presentations by participants
-* Poster presentation with Demo
-* Hackathon <<[BLACK DAY HACK in ITMO University]({{ site.base_url }}/hackathon.html)>>
+* Key notes presentaion
+* Oral presentations
+* Poster presentations
+* Demo session
 
 Please refer to [Call For Papers]({{ site.base_url }}/call.html) to learn more about the research tracks.
 
 Advantages for the participants:
 
 * The chance to discuss your scientific results with experienced audience
-* The proceedings will be printed and can be included in participant's scientific portfolio
+* The proceedings will be printed and selectively indexed by **DBLP** and **Scopus** data bases
 * The best poster presentation will be awarded
-* The chance to examine your practical skills in Hackathon and get an award for the best team 
-
-[//]: # (The proceedings will be printed and selectively indexed by DBLP and Scopus data bases)
-
+* The chance to examine your practical skills in Hackathon and get an award for the best team
