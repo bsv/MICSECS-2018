@@ -6,7 +6,7 @@ title: Organization
 
 **General Chair**: Pavel Kustarev, ITMO University, Russia
 
-**Program Chair**: Dmitrii Muromtsev, ITMO University, Russia
+**Program Chair**: Dmitry Mouromtsev, ITMO University, Russia
 
 **Proceeding Сhair**: Olga Parkhimovich, ITMO University, Russia
 

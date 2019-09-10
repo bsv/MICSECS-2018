@@ -14,9 +14,7 @@ Will be open on **1 October 2019**.
 
 ## Registration on Oral and Poster presentation
 
-To apply to the conference **Research Tracks** you need to send the abstract of your oral or poster presentation via Easy Chair.
-The Easy Chair link for submissions **will be published later**. The begin of abstract submission will be opened on **1 October 2019**.
-<!-- [EasyChair](https://easychair.org/conferences/?conf=micsecs2018){:target="_blank"}.  -->
+To apply to the conference **Research Tracks** you need to send the abstract of your oral or poster presentation via Easy Chair: [https://easychair.org/conferences/?conf=micsecs2019](https://easychair.org/conferences/?conf=micsecs2019){:target="_blank"}.
 
 Your abstract should content:
 
