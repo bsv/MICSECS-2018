@@ -14,11 +14,12 @@ title: Organization
 
 | Name          | Company       | Country |
 | ------------- |:-------------:|---------|
-| Sergei Bikovskii     | ITMO University | Russia |
+| Artem Smolin         | ITMO University | Russia |
 | Andrey Dergachev     | ITMO University | Russia |
 | Elena Boldyreva      | ITMO University | Russia |
 | Ilya Isaev           | ITMO University | Russia |
 | Ivan Loginov         | ITMO University | Russia |
+| Sergei Bikovskii     | ITMO University | Russia |
 | Vladislav Shmatkov   | ITMO University | Russia |
 
 <!--
