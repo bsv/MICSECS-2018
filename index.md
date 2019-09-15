@@ -29,6 +29,5 @@ Please refer to [Call For Papers]({{ site.base_url }}/call.html) to learn more a
 Advantages for the participants:
 
 * The chance to discuss your scientific results with experienced audience
-* The proceedings will be printed and selectively indexed by **DBLP** and **Scopus** data bases
+* The proceedings will be published in CEUR with selectable **DBLP** and **Scopus** indexing
 * The best poster presentation will be awarded
-* The chance to examine your practical skills in Hackathon and get an award for the best team
