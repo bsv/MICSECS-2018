@@ -4,7 +4,7 @@ title: Call For Papers
 ---
 # Call For Papers
 
-The Majorov International Conference on Software Engineering and Computer Systems (**MICSECS 2019**) is an international event dedicated to discussing research results and directions in the areas related to Software and Hardware Engeneering, Networks, Cyper-Physical Systems, Computer Security,  Multimedia technologies and AR/VR/MR technologies.
+The Majorov International Conference on Software Engineering and Computer Systems (**MICSECS 2019**) is an international event dedicated to discussing research results and directions in the areas related to Software and Hardware Engineering, Networks, Cyber-Physical Systems, Computer Security,  Multimedia technologies and AR/VR/MR technologies.
 
 The conference gives a possibility to under- and post-graduate students to exchange their experience and results in perspective areas of research and development of Computer Systems.
 

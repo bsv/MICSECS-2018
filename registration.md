@@ -16,20 +16,13 @@ Will be open on **1 October 2019**.
 
 To apply to the conference **Research Tracks** you need to send the abstract of your oral or poster presentation via Easy Chair: [https://easychair.org/conferences/?conf=micsecs2019](https://easychair.org/conferences/?conf=micsecs2019){:target="_blank"}.
 
-Your abstract should content:
+Your abstract:
 
-1. Title
-2. The type of the abstract: **poster session** or **oral presentation**
-3. Content (the aim of the research, issues, obtained results). It can include graphics and formulas.
-4. List of the references (bibliography)
+* should be prepared using LNCS format ([**instructions**](https://ru.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj){:target="_blank"})
+* should content **4-6 pages**. 
 
-The requirements of the abstract:
-
-* It should be submitted as a **single PDF** file.
-* Max pages: 3
-* Font: Times New Roman, 12pt
-
-**Example of the abstract:** [**download**]({{ site.base_url }}/media/MICSECS_abstract_example.pdf){:target="_blank"}
+The authors should add the type of presentation (**oral presentation** or **poster session**) to the abstract. 
+The type of the presentation should be put after **Keywords** in the abstract.
 
 **Instruction of the abstract submission** (RUSSIAN version): [**download**]({{ site.base_url }}/media/MICSECS2019_Easy_Chair_Reg_Manual_RUS.pdf){:target="_blank"}
 
