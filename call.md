@@ -24,7 +24,7 @@ All deadlines are for the Moscow time zone, 23:59.
 * **Demo project submission**: 24 November 2019
 * **Conference program publication**: 2 December 2019
 * **Author notification**: 2 December 2019
-* **Camera ready paper submission**: 30 January 2019
+* **Camera ready paper submission**: 30 January 2020
 
 ## Proceedings
 
