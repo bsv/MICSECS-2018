@@ -6,11 +6,9 @@ title: Registration
 
 ## Listeners registration
 
-Will be open on **1 October 2019**.
+To take part in the conference as a listener you need to fill the [**REGISTRATION FORM**](https://forms.gle/yxxenueXJX65SZEb6){:target="_blank"}. -->
 
-<!-- To take part in the conference as a listener you need to fill the [**REGISTRATION FORM**](https://goo.gl/forms/jeoiyiIZcH1ErREr1){:target="_blank"}. -->
-
-<!-- Filling this form you agree to [the personal data processing policy]({{ site.base_url }}/media/micsecs_a.pdf){:target="_blank"}. -->
+Filling this form you agree to [the personal data processing policy]({{ site.base_url }}/media/micsecs_a.pdf){:target="_blank"}.
 
 ## Registration on Oral and Poster presentation
 
