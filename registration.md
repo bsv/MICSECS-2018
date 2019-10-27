@@ -28,4 +28,4 @@ The type of the presentation should be put after **Keywords** in the abstract.
 
 ## Registration on Demo session
 
-To apply to the **Demo session** you should send the description of your project and poster to the organization team by <mailto:mr@itmo.ru>. The materials should content the main points of your results and the description of the obtained executable models, devices and etc. during your research.
+To apply to the **Demo session** you should send the description of your project to the organization team by <mailto:mr@itmo.ru>. The materials should content the main points of your results and the description of the obtained executable models, devices and etc. during your research.
