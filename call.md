@@ -67,13 +67,16 @@ The research track welcomes novel papers addressing theoretical, applied, and em
 * Ontology Models and Semantic Web
 * Algorithms and Optimization
 
-### **Computer Vision and computational optics**
+### **Computer graphics and multimedia**
 
 * Computer vision
 * Image processing and watermarking
 * Audio and video processing
 * Motion and tracking
 * Pattern Recognition
+* Real-time computer graphics
+* Physically correct rendering
+* Artificial intelligence in computer graphics
 
 ### **AR/VR/MR technologies**
 * Augmented, virtual and mixed reality systems
