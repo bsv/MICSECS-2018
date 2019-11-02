@@ -20,7 +20,7 @@ Please refer to [Registration]({{ site.base_url }}/registration.html) to learn m
 All deadlines are for the Moscow time zone, 23:59.
 
 * **The begin of the participant registration**: 1 October 2019
-* **Abstract submission**: <s>3 November 2019</s> <b style="color: red;">9 November 2019</b>
+* **Abstract submission**: <s>3 November 2019</s> <b style="color: red;">10 November 2019</b>
 * **Demo project submission**: 24 November 2019
 * **Conference program publication**: 2 December 2019
 * **Author notification**: 2 December 2019
