@@ -2,7 +2,8 @@
 layout: page
 title: Home
 ---
-# Invitation
+<!-- # Invitation  -->
+## Abstract deadline extended to <span style="color:red;">10 November 2019</span>
 
 <div >
       <img src="{{ site.base_url }}/img/itmo.jpeg">
