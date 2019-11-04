@@ -38,10 +38,10 @@ guarantee a high-quality reviewing process.
 
 All selected papers will be **FREE of charge** for the conference participants whose papers were accepted after peer review.
 
-<!-- <div >
+<div >
     <img style="height:100px; margin-left:15%;" src="{{ site.base_url }}/img/mdpi-logo.png">  
     <img style="height:100px; margin-left:20px;" src="{{ site.base_url }}/img/computers-logo.png">
-</div> -->
+</div>
 
 ## Poster guidelines
 
