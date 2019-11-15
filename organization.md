@@ -22,7 +22,7 @@ title: Organization
 | Sergei Bikovskii     | ITMO University | Russia |
 | Vladislav Shmatkov   | ITMO University | Russia |
 
-<!--
+
 ## Program committee
 
 | Name          | Company       | Country |
