@@ -29,6 +29,7 @@ title: Organization
 | ------------- |:-------------:|---------|
 | Pavel Balakshin       | Pega Systems    | USA |
 | Igor Potemin          | ITMO University | Russia |
+| Aglaia Ilina          | ITMO University | Russia |
 | Gerhard Wohlgenannt   | ITMO University | Russia |
 | Taufik Aliev          | ITMO University | Russia |
 | Alexey Platunov       | ITMO University | Russia |
