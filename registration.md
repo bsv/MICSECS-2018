@@ -18,6 +18,7 @@ Your abstract:
 
 * should be prepared using LNCS format ([**instructions**](https://ru.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj){:target="_blank"})
 * should content **4-6 pages**. 
+* language: english
 
 The authors should add the type of presentation (**oral presentation** or **poster session**) to the abstract. 
 The type of the presentation should be put after **Keywords** in the abstract.
