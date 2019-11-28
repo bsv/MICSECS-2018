@@ -12,7 +12,7 @@ title: Home
 <br>
 [ITMO University](http://en.itmo.ru/en/){:target="_blank"} kindly invites international researches to the 11th Majorov International Conference on Software Engineering and Computer Systems (**MICSECS 2019**).
 
-The conference will be held on 12-13 December 2019 in the creative space **«Tochka kipeniya»**, 3 Medikov pr, Saint Petersburg, Russia.
+The conference will be held on 12-13 December 2019 in the creative space **«Tochka kipeniya»**, 3&nbsp;Medikov pr, Saint Petersburg, Russia.
 
 ## About
 
