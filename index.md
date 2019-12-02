@@ -2,8 +2,8 @@
 layout: page
 title: Home
 ---
-<!-- # Invitation  -->
-## <span style="color:red;">Abstract submission is closed </span>
+# Invitation 
+<!-- ## <span style="color:red;">Abstract submission is closed </span> -->
 
 <div >
       <img src="{{ site.base_url }}/img/itmo.jpeg">
