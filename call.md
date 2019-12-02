@@ -32,7 +32,7 @@ The best articles will be selected to publication in Proceedings. The Proceeding
 
 We are going to publish the proceedings in CEUR with selectable **DBLP**, **Scopus** indexing.
 
-## Research Track
+## Research Tracks
 
 The research track welcomes novel papers addressing theoretical, applied, and empirical aspects of research. Topics of interest include but are not limited to:
 

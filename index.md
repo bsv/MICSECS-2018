@@ -27,9 +27,60 @@ The conference includes:
 * Poster presentations
 * Demo session
 
-Please refer to [Call For Papers]({{ site.base_url }}/call.html) to learn more about the research tracks.
+## Research Tracks
 
-Advantages for the participants:
+The research track welcomes novel papers addressing theoretical, applied, and empirical aspects of research. Topics of interest include but are not limited to:
+
+### **Computer Systems and Networks**
+
+* High-Performance Computing
+* Computer Networks and Telecommunication
+* Domain specific modelling and metamodelling
+* Cloud Computing
+* Virtualization
+* Multi-core programming
+* Computer Network Security
+* Cryptography and Cryptanalysis
+* Digital Forensics and Cybercrime Investigation
+* Information Security and Privacy
+
+### **Cyber-Physical Systems**
+
+* Embedded Systems
+* Computer Aided Design
+* High-level synthesis
+* Modelling and Co-simulation
+* Robotics
+* Internet of Things
+* Ubiquitous computing
+
+### **Software Engineering**
+
+* Programm languages
+* Compilers
+* Artificial Intelligent & machine learning
+* Ontology Models and Semantic Web
+* Algorithms and Optimization
+
+### **Computer graphics and multimedia**
+
+* Computer vision
+* Image processing and watermarking
+* Audio and video processing
+* Motion and tracking
+* Pattern Recognition
+* Real-time computer graphics
+* Physically correct rendering
+* Artificial intelligence in computer graphics
+
+### **AR/VR/MR technologies**
+* Augmented, virtual and mixed reality systems
+* Human Computer Interaction
+* Human Computer Interfaces
+
+Please refer to [Call For Papers]({{ site.base_url }}/call.html) to learn more about the conference.
+
+## Advantages for the participants
 
 * The chance to discuss your scientific results with experienced audience
 * The proceedings will be published in CEUR with selectable **DBLP** and **Scopus** indexing
