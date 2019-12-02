@@ -2,8 +2,10 @@
 layout: page
 title: Home
 ---
-# Invitation 
-<!-- ## <span style="color:red;">Abstract submission is closed </span> -->
+<!-- # Invitation --> 
+## <span style="color:red;">The review results were sent to the authors </span>
+
+If you don't receive the email with review results please contact us via mr@itmo.ru.
 
 <div >
       <img src="{{ site.base_url }}/img/itmo.jpeg">
