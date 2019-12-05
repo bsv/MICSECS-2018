@@ -59,7 +59,6 @@ title: Organization
 | Igor Potemin          | ITMO University | Russia |
 | Aglaia Ilina          | ITMO University | Russia |
 | Gerhard Wohlgenannt   | ITMO University | Russia |
-| Taufik Aliev          | ITMO University | Russia |
 | Alexey Platunov       | ITMO University | Russia |
 | Igor Bessmertny       | ITMO University | Russia |
 | Artem Smolin          | ITMO University | Russia |
@@ -78,13 +77,11 @@ title: Organization
 | Vasiliy Pinkevich     | ITMO University | Russia |
 | Evgenij Tsopa         | ITMO University | Russia |
 | Alexey Shikov         | ITMO University | Russia |
-| Alexey Platunov       | ITMO University | Russia |
 | Alexander Belozubov   | ITMO University | Russia |
 | Taufik Aliev          | ITMO University | Russia |
 | Andrei Iuganson       | ITMO University | Russia |
 | Viktoria Korzhuk      | ITMO University | Russia |
 | Arkady Kluchev        | ITMO University | Russia |
-| Igor Potemin          | ITMO University | Russia |
 | Dmitry Makhlai        | ITMO University | Russia |
 | Lidia	Korpan          | ITMO University | Russia |
 | Polina Belimova       | ITMO University | Russia |
