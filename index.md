@@ -9,6 +9,8 @@ The detailed program is available by this link: [**download program**]({{ site.b
 
 The XI Majorov International Conference on Software Engineering and Computer Systems will took place in the «**Tochka kipeniya**» space, 3 Medikov pr, Saint Petersburg, Russia, on 12-13 December 2019.
 
+<b style="color: #ee6952;">ATTENTION!</b> The Conference will took place in the «Tochka kipeniya» space. To enter «Tochka kipeniya» all participants need to register using this link: [**REGISTER**](https://leader-id.ru/event/29451/){:target="_blank"}. To register you need to press  button **"Подать заявку"**.
+
 
 ## MICSECS-2019 Statistics
 
