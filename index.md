@@ -20,7 +20,7 @@ The authors represented 17 universities (ITMO University, St. Petersburg Electro
 
 All applications were reviewed by an international program committee of 58 scientists and research engineers from Russia, Germany, the USA, Great Britain, Portugal and Finland. They represented ITMO University, St. Petersburg Electrotechnical University "LETI", Space University of Aerospace Instrumentation, SPIIRAS, Innopolis University, Tampere University, Siberian Federal University, E-Government Center and others.
 
-459 reviews were prepared (2.65 per job) and 61% of applications were approved.
+459 reviews were prepared (2.65 per submission) and 61% of applications were approved.
 
 ## About 
 
