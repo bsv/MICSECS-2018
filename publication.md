@@ -3,35 +3,58 @@ layout: page
 title: Publication
 ---
 
-# Requirements to prepare the articles for publication
+## Publication in the special issue of "Computers" journal
 
-## Instructions for the full presentation authors
+A special issue of "Computers" journal will be published in 2020 and will be indexed by ESCI, Inspec, DBLP, and Scopus.
 
-The authors, who have made the **full presentation** on the conference, are invited to submit a full paper:
+**The list of selected papers**: [**download**]({{ site.base_url }}/media/2019/MICSECS-2019-papers_for_Computers.pdf){:target="_blank"}.
 
-* The paper should not exceed **12 pages** including references.
-* The paper should be prepared in [**Springer LNCS style**](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines?countryChanged=true){:target="_blank"}. LaTeX template of the Springer LNCS is available at [**ShareLaTeX platform**](https://www.sharelatex.com/templates/journals/lecture-notes-in-computer-science-(lncs) ){:target="_blank"}. We encourage you to use LaTeX template instead of Word template.
-* The papers should be submitted through the EasyChair conference management system using this [**LINK**](https://easychair.org/my/conference.cgi?welcome=1;conf=micsecs2018){:target="_blank"}. 
-* The authors need to replace the abstract that they have uploaded before the conference with the paper in **PDF format**.
-* Submitted papers should be written in **English** and conform the structire of a research paper. Namely the  research paper usually includes an abstract, an introduction explaining what is investigated in your work. Then comes the research question and hypotheses, and after this the methodology where used or developed methods are explained. Then comes the <<findings>> section, then the discussion (where the findings are analyzed), and then the conclusions, and suggestions for further research on the subject (this is optional). In case you need more tips how to structure your paper please follow this [**INSTRUCTIONS**](https://www.elsevier.com/connect/infographic-tips-to-writing-better-science-papers){:target="_blank"}. 
-* Papers should present original work previously not published or concurrently submitted to another conference or journal.
-* The authors should make an expert conclusion about the publication. The example for ITMO University participants is available by [**LINK**](http://pribor.ifmo.ru/file/stat/18/exp.pdf){:target="_blank"}. The participants from other Universities should make the expert conclusion following the rules of your Universities. The expert conclusion should be signed, scanned and send to the conference e-mail <mailto:mr@corp.ifmo.ru>.
+Each submission to this Special Issue should contain at least **50% of new material**, e.g., in the form of technical extensions; more in-depth evaluations; or additional use cases and a change of title, abstract, and keywords. These extended submissions will undergo a peer-review process according to the journal’s rules of action. At least two technical committees will act as reviewers for each extended article submitted to this Special Issue; if needed, additional external reviewers will be invited to guarantee a high-quality reviewing process.
 
-Conference proceedings will be submitted for publishing in [**CEUR-WS series**](http://ceur-ws.org){:target="_blank"}.
+All selected papers will be **FREE of charge** for the conference participants whose papers were accepted after peer review.
+The conference organizing committee will give a list of recommended authors to the publisher. The authors should submit their paper according the requirements of the journal.
 
-The strict deadline for upload a camera ready version of authors papers is **30 January 2019**.
+Link to the journal page **with requirements**: [**go to the journal page**](https://www.mdpi.com/journal/computers/special_issues/Selected_Papers_MICSECS2019){:target="_blank"} 
 
-## Instructions for the short presentation authors
+The strict deadline for upload a camera ready version of authors papers is **1 May 2020**.
 
-The authors, who have made the **short presentation** on the conference, are invited to submit a short paper:
+## Publication in "CEUR Workshop Proceedings" 
 
-* The paper should not exceed **5 pages** including references.
-* The authors should follow this [**REQUIREMENTS**]({{ site.base_url }}/media/mr2018_article_req.docx).
-* The papers should be submitted through the EasyChair conference management system using this [**LINK**](https://easychair.org/my/conference.cgi?welcome=1;conf=micsecs2018){:target="_blank"}. 
-* Submitted papers should be written in **Russian**. 
-* The authors need to replace the abstract that they have uploaded before the conference with the paper in **PDF format**.
-* The authors should make an expert conclusion about the publication. The example for ITMO University participants is available by [**LINK**](http://pribor.ifmo.ru/file/stat/18/exp.pdf){:target="_blank"}. The participants from other Universities should make the expert conclusion following the rules of your Universities. The expert conclusion should be signed, scanned and send to the conference e-mail <mailto:mr@corp.ifmo.ru>.
+"CEUR Workshop Proceedings" will be published in 2020 and will be indexed by Scopus and DBLP databases. 
+The authors need to use the submission that they uploaded to the easychair platform to be published in these proceedings.
 
-The short articles will be printed in the Russian Conference Proceedings series. The proceedings of the previous conference is available [**here**]({{ site.base_url }}/media/sbornik_2018.pdf){:target="_blank"}.
+**The list of selected papers**: [**download**]({{ site.base_url }}/media/2019/MICSECS-2019-papers_for_CEUR.pdf){:target="_blank"}.
 
-The strict deadline for upload a camera ready version of authors papers is **30 January 2019**.
+Instructions:
+- Make sure that the LaTeX template is used : [**Latex template**](https://ru.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj){:target="_blank"}.
+- Correct the title of the submission so that the first letters of all the words (except for articles, conjunctions and prepositions) will be capital letters, means the Title Case is used. Examples: The Vitamins Are in My Fresh California Raisins, The Early Bird Catches the Worm, Historical Foundations of Modern English Spelling, The Last of the Mohicans.
+- Check that each author has an orcid ID. In case of absence, you should register [**ORCID**](https://orcid.org/){:target="_blank"} and add your orcid ID.
+- Remove the line that indicated the oral or poster presentation.
+- Increase the article size to **8 pages** (for authors who made short presentations) and **12 pages** (for authors who made long presentations) by adding new information.
+- Correct your submission according to the reviewers' comments.
+- Check that the article is high quality and worth publishing. The article should reflect the significance, technical soundness, novelty, relevance and, if applicable, the sufficiency of information to permit replication.
+- Check spelling, clarity and quality of the language, proofreading by a native speaker is highly recommended.
+- It is necessary to write a brief abstract, designed for the wide range of readers, in the volume of about 200-250 words to state the scientific content of the article: the subject, the purpose of the work, the method or methodology of the work, the brief description of the experiment, the results, the recommendations on their application.
+- A new compiled document must be uploaded to easychar in an existing submission on [**Easy Chair**](https://easychair.org/conferences/?conf=micsecs2019){:target="_blank"}. **You do not need to create a new submission!**
+- Each article will be re-reviewed. If the above requirements are not met, a submission for publication in the CEUR Workshop Proceedings may be rejected.
+
+The strict deadline for upload a camera ready version of authors papers is **30 January 2020**.
+
+## Publication in "Proceedings of the XI Majorov International Conference on Software Engineering and Computer Systems"
+
+"Proceedings of the XI Majorov International Conference on Software Engineering and Computer Systems" will be published in 2020 and will be indexed in the RSCI database. The authors need to use the submission that they uploaded to the [**Easy Chair**](https://easychair.org/conferences/?conf=micsecs2019){:target="_blank"} platform to be published in these proceedings.
+
+**The list of selected papers**: [**download**]({{ site.base_url }}/media/2019/MICSECS-2019-papers_for_RSCI.pdf){:target="_blank"}.
+
+Instructions:
+- Make sure that the LaTeX template is used: [**Latex template**](https://ru.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj){:target="_blank"}.
+- Correct the title of the submission so that the first letters of all the words (except for articles, conjunctions and prepositions) will be capital letters, means the Title Case is used. Examples: The Vitamins Are in My Fresh California Raisins, The Early Bird Catches the Worm, Historical Foundations of Modern English Spelling, The Last of the Mohicans.
+- Check that each author has an orcid ID. In case of absence, you should register [**ORCID**](https://orcid.org/){:target="_blank"} and add your orcid ID.
+- Remove the line that indicated the oral or poster presentation.
+- Briefly correct your submission according to the reviewers' comments.
+- Check spelling, proofreading by a native speaker is welcome.
+- Participants from Russia should prepare and scan an expert analysis form ([**example**]({{ site.base_url }}/media/2019/expert_example.docx){:target="_blank"}) for the open access publication possibility.
+- Fill out and scan the copyright transfer application ([**example**]({{ site.base_url }}/media/2019/authors_rights.docx){:target="_blank"}).
+- Send the source TeX file, the compiled PDF file, the scan of the expert analysis form and the scan of the copyright transfer application by e-mail to <mailto:mr@itmo.ru>. Please indicate the number of your submission (from 1 to 175 in Easy Chair) in the subject line of the letter.
+
+The strict deadline for upload a camera ready version of authors papers is **30 January 2020**.

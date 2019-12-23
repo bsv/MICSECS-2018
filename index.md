@@ -3,14 +3,17 @@ layout: page
 title: Home
 ---
 
-## <span style="color:red;">Program</span>
+## <span style="color:red;">Publication</span>
 
-The detailed program is available by this link: [**download program**]({{ site.base_url }}/media/MICSECS-2019-program.pdf){:target="_blank"}.
+Dear authors!
 
-The XI Majorov International Conference on Software Engineering and Computer Systems will took place in the «**Tochka kipeniya**» space, 3 Medikov pr, Saint Petersburg, Russia, on 12-13 December 2019.
+Based on the results of your participation in the conference, the organizing committee offers you to publish materials in the following collection of articles:
 
-<b style="color: #ee6952;">ATTENTION!</b> The Conference will took place in the «Tochka kipeniya» space. To enter «Tochka kipeniya» all participants need to register using this link: [**REGISTER**](https://leader-id.ru/event/29451/){:target="_blank"}. To register you need to press  button **"Подать заявку"**.
+1. "**Proceedings of the XI Majorov International Conference on Software Engineering and Computer Systems**", which will be published in the first half of 2020 and will be indexed in the RSCI database. The list of selected papers: [**download**]({{ site.base_url }}/media/2019/MICSECS-2019-papers_for_Computers.pdf){:target="_blank"}.
+2. "**CEUR Workshop Proceedings**", which will be published in 2020 and will be indexed in the Scopus and DBLP databases. The list of selected papers: [**download**]({{ site.base_url }}/media/2019/MICSECS-2019-papers_for_CEUR.pdf){:target="_blank"}.
+3. A special issue of "**Computers**" magazine, which will be published in 2020 and will be indexed in ESCI, Inspec, DBLP, and Scopus. The list of selected papers: [**download**]({{ site.base_url }}/media/2019/MICSECS-2019-papers_for_RSCI.pdf){:target="_blank"}.
 
+The instructions for each option are available at [**Publication page**]({{ site.base_url }}/publication.html).
 
 ## MICSECS-2019 Statistics
 
@@ -21,6 +24,8 @@ The authors represented 17 universities (ITMO University, St. Petersburg Electro
 All applications were reviewed by an international program committee of 58 scientists and research engineers from Russia, Germany, the USA, Great Britain, Portugal and Finland. They represented ITMO University, St. Petersburg Electrotechnical University "LETI", Space University of Aerospace Instrumentation, SPIIRAS, Innopolis University, Tampere University, Siberian Federal University, E-Government Center and others.
 
 459 reviews were prepared (2.65 per submission) and 61% of applications were approved.
+
+The detailed program is available by this link: [**download program**]({{ site.base_url }}/media/MICSECS-2019-program.pdf){:target="_blank"}.
 
 ## About 
 
