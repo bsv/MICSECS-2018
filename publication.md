@@ -26,7 +26,7 @@ The authors need to use the submission that they uploaded to the easychair platf
 **The list of selected papers**: [**download**]({{ site.base_url }}/media/2019/MICSECS-2019-papers_for_CEUR.pdf){:target="_blank"}.
 
 Instructions:
-- Make sure that the LaTeX template is used : [**Latex template**](https://ru.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj){:target="_blank"}.
+- Make sure that the LaTeX template is used : [**Latex template**](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj){:target="_blank"}.
 - Correct the title of the submission so that the first letters of all the words (except for articles, conjunctions and prepositions) will be capital letters, means the Title Case is used. Examples: The Vitamins Are in My Fresh California Raisins, The Early Bird Catches the Worm, Historical Foundations of Modern English Spelling, The Last of the Mohicans.
 - **Change the title** if you are planning to publish in "Proceedings of the XI Majorov International Conference on Software Engineering and Computer Systems" also. The titles of this two publications should be different! 
 - Check that each author has an orcid ID. In case of absence, you should register [**ORCID**](https://orcid.org/){:target="_blank"} and add your orcid ID.
@@ -48,7 +48,7 @@ The strict deadline for upload a camera ready version of authors papers is **30 
 **The list of selected papers**: [**download**]({{ site.base_url }}/media/2019/MICSECS-2019-papers_for_RSCI.pdf){:target="_blank"}.
 
 Instructions:
-- Make sure that the LaTeX template is used: [**Latex template**](https://ru.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj){:target="_blank"}.
+- Make sure that the LaTeX template is used: [**Latex template**](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj){:target="_blank"}.
 - Correct the title of the submission so that the first letters of all the words (except for articles, conjunctions and prepositions) will be capital letters, means the Title Case is used. Examples: The Vitamins Are in My Fresh California Raisins, The Early Bird Catches the Worm, Historical Foundations of Modern English Spelling, The Last of the Mohicans.
 - Check that each author has an orcid ID. In case of absence, you should register [**ORCID**](https://orcid.org/){:target="_blank"} and add your orcid ID.
 - Remove the line that indicated the oral or poster presentation.
