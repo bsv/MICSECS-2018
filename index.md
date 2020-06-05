@@ -13,9 +13,9 @@ Dear authors!
 
 Based on the results of your participation in the conference, the organizing committee offers you to publish materials in the following collection of articles:
 
-1. "**Proceedings of the XI Majorov International Conference on Software Engineering and Computer Systems**", which will be published in the first half of 2020 and will be indexed in the RSCI database. The list of selected papers: [**download**]({{ site.base_url }}/media/2019/MICSECS-2019-papers_for_Computers.pdf){:target="_blank"}.
+1. "**Proceedings of the XI Majorov International Conference on Software Engineering and Computer Systems**", which will be published in the first half of 2020 and will be indexed in the RSCI database. The list of selected papers: [**download**]({{ site.base_url }}/media/2019/MICSECS-2019-papers_for_RSCI.pdf){:target="_blank"}.
 2. "**CEUR Workshop Proceedings**", which will be published in 2020 and will be indexed in the Scopus and DBLP databases. The list of selected papers: [**download**]({{ site.base_url }}/media/2019/MICSECS-2019-papers_for_CEUR.pdf){:target="_blank"}.
-3. A special issue of "**Computers**" magazine, which will be published in 2020 and will be indexed in ESCI, Inspec, DBLP, and Scopus. The list of selected papers: [**download**]({{ site.base_url }}/media/2019/MICSECS-2019-papers_for_RSCI.pdf){:target="_blank"}.
+3. A special issue of "**Computers**" magazine, which will be published in 2020 and will be indexed in ESCI, Inspec, DBLP, and Scopus. The list of selected papers: [**download**]({{ site.base_url }}/media/2019/MICSECS-2019-papers_for_Computers.pdf){:target="_blank"}.
 
 The instructions for each option are available at [**Publication page**]({{ site.base_url }}/publication.html).
 
