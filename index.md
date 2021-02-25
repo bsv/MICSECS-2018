@@ -9,7 +9,7 @@ title: Home
 
 ## CEUR Workshop Proceedings of MICSECS-2019
 
-The "**CEUR Workshop Proceedings**" of the "**The 11th Majorov International Conference on Software Engineering and Computer Systems**" was published: [**jump to the proceedings**](http://ceur-ws.org/Vol-2590/).
+The "**CEUR Workshop Proceedings**" of the "**The 11th Majorov International Conference on Software Engineering and Computer Systems**" was published: [**jump to the proceedings**](http://ceur-ws.org/Vol-2590/)
 
 ## Publication
 
