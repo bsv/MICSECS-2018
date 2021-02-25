@@ -5,7 +5,7 @@ title: Home
 
 ## Proceedings of the XI Majorov International Conference on Software Engineering and Computer Systems
 
-"**Proceedings of the XI Majorov International Conference on Software Engineering and Computer Systems**" was published: [**jump to the proceedings**](https://yadi.sk/i/Swniqhy9U-ScKA)
+"**Proceedings of the XI Majorov International Conference on Software Engineering and Computer Systems**" was published: [**jump to the proceedings**](https://yadi.sk/i/oxgngpMBn1LgUw)
 
 ## CEUR Workshop Proceedings of MICSECS-2019
 
