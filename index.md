@@ -3,7 +3,11 @@ layout: page
 title: Home
 ---
 
-## <span style="color:red;">CEUR Workshop Proceedings of MICSECS-2019</span>
+## Proceedings of the XI Majorov International Conference on Software Engineering and Computer Systems
+
+"**Proceedings of the XI Majorov International Conference on Software Engineering and Computer Systems**" was published: [**jump to the proceedings**](https://yadi.sk/i/Swniqhy9U-ScKA)
+
+## CEUR Workshop Proceedings of MICSECS-2019
 
 The "**CEUR Workshop Proceedings**" of the "**The 11th Majorov International Conference on Software Engineering and Computer Systems**" was published: [**jump to the proceedings**](http://ceur-ws.org/Vol-2590/).
 
